@@ -1,0 +1,93 @@
+[class="wp-image-297"] {
+    margin-top: 0px;
+    margin-bottom: 1px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    box-shadow: 0 0 3px 1px rgba(0,0,0,0.32);
+    border-radius: 20px;
+}
+[class="wp-block-button"] {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+
+    border-radius: 20px;
+    padding: calc(-1.0em + 2px) calc(1.3em + 2px);
+}
+
+[class="wp-block-button__link"] {
+    border-radius: 11px;
+}
+
+[class="mh-container mh-container-inner mh-row mh-clearfix"]{display: none;}
+
+
+[class="mh-custom-header mh-clearfix"]{display: none;}
+
+[class="mh-main-nav-wrap"]{display: none;}
+
+
+[class="mh-widget-col-1 mh-sidebar"]{display: none;}
+
+[class="mh-meta mh-loop-meta"]{display: none;}
+
+[id="search"] {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+border: 5px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0px;
+padding: 25px;
+}
+
+[class="searchButton"] {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 13px !important;
+    padding-bottom: 13px !important;
+border: 5px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0px;
+    padding: calc(-1.0em + 2px) calc(0.5em + 14px);
+}
+
+[id="search"] {
+      position: fixed;
+margin-top: -40px;
+    left: 69px;
+}
+[class="searchButton"] {
+  position: fixed;
+	margin-top: -40px;
+    left: -1px;
+
+}
+
+input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover, input[type=url]:hover, textarea:hover{
+
+    border: 5px solid rgba(0, 0, 0, 0.1);
+
+}
+
+[class="entry-title page-title"]{display: none;}
+
+
+[class="mh-loop-item mh-clearfix post-1197 page type-page status-publish hentry"]{display: none;}
+[class="mh-loop-item mh-clearfix post-1195 page type-page status-publish hentry"]{display: none;}
+[class="mh-loop-item mh-clearfix post-1193 page type-page status-publish hentry"]{display: none;}
+[class="mh-loop-item mh-clearfix post-1191 page type-page status-publish hentry"]{display: none;}
+[class="mh-loop-item mh-clearfix post-1022 page type-page status-publish hentry"]{display: none;}
+[class="mh-loop-item mh-clearfix post-430 page type-page status-publish hentry"]{display: none;}
+[class="mh-loop-item mh-clearfix post-47 page type-page status-publish hentry"]{display: none;}
+
+[class="entry-content mh-widget"]{display: none;}
+[controls="controls"] {
+    background-color: #e6f9ff;
+        padding-top: 11px !important;
+        padding-bottom: 12px !important;
+    border: 5px solid rgba(0, 0, 0, 0.1);
+        border-radius:29px;
+        padding: calc(-1.0em + 2px) calc(0.5em + 4px);
+        
+    }
